@@ -1,0 +1,15 @@
+{
+	"name": "ros-haxe",
+	"description": "Haxe interface for RosBridge",
+	"classPath": "src",
+	"url": "https://github.com/marckri/ros-haxe",
+	"contributors": [
+        "marckri"
+	],
+	"version": "1.0.0",
+	"releasenote": "Initial release for topics on ROS2",
+	"dependencies": {
+		"colyseus-websocket": ""
+	},
+	"license": "MIT"
+}
